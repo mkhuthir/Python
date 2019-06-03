@@ -1,0 +1,18 @@
+Hello World
+
+This is Muthanna A. Alwahash
+
+Text file is having many lines of text
+
+One more line
+
+last line
+
+
+
+['Hello World\n']
+['This is Muthanna A. Alwahash\n']
+['Text file is having many lines of text\n']
+['One more line\n']
+['last line\n']
+['\n']

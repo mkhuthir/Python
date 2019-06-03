@@ -1,0 +1,11 @@
+matplotlib
+numpy
+pygame
+PyOpenGL
+scikit-learn
+scipy
+pandas
+jupyter
+pandas
+requests
+
