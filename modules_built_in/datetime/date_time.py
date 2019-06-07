@@ -12,16 +12,6 @@ print(d1)
 print(d1.month, d1.day, d1.year)
 print(d1.weekday())
 
-# ISO format is a string format, yyyy-mm-dd
-# ---------------------------
-# date_object.isoformat() does the same thing as str(date_object)
-
-from datetime import date
-d1 = date.isoformat('2011-11-23')
-print(d1)
-print(str(d1))
-print(d1.isoformat())
-d1
 
 # Comparison, addition and sutraction of dates
 # ---------------------------
