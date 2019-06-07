@@ -10,5 +10,8 @@ for i in sys.path:
 
 print("\nPython Version :",sys.version,end="\n\n")
 
+print("\nPython Copyright :\n",sys.copyright,end="\n\n")
+
+
 
 
