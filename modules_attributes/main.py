@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
-"""Fibonacci series module"""
 def fibo(n):
+    """Fibonacci series module"""
     FiboList=[]
     a,b=0,1
     while b<n:
@@ -11,6 +11,7 @@ def fibo(n):
 
 # the following will run only when script is called directly (not imported as a module)
 if __name__== "__main__":
+    print (fibo.__doc__)
     print ("Fibonacci series", fibo(100))
 
 
